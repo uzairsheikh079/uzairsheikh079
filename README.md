@@ -16,6 +16,11 @@ I develop and maintain healthcare software for orthodontic practices, including 
 
 Most of my professional work is proprietary. I am building sanitized public projects here that demonstrate my engineering approach without exposing employer or customer code.
 
+## Featured projects
+
+- **[IT Support Desk](https://github.com/uzairsheikh079/it-support-desk)** — A Laravel support-ticket platform with a versioned REST API, RabbitMQ jobs, Docker, PHPUnit, and GitHub Actions.
+- **[Bitcoin Price Explorer](https://github.com/uzairsheikh079/bitcoin-price-explorer)** — A Laravel and Vue.js application that visualizes historical Bitcoin prices from an external API.
+
 ## Open to opportunities
 
 I am interested in **Full-Stack Developer** and **Backend Developer** roles where I can contribute to practical, dependable, user-focused software.
