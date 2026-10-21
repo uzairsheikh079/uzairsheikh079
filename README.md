@@ -1,28 +1,39 @@
 # Hi, I'm Uzair Tariq
 
-Full-Stack Developer based in Hamburg, Germany, with several years of experience building and maintaining reliable business web applications.
+**Full-Stack PHP/Laravel Developer** based in Hamburg, Germany, with 7+ years of experience across backend and full-stack web development, including more than five years in Germany.
 
-## What I work with
+I independently develop and maintain production software for orthodontic practices, with hands-on responsibility for REST API integrations, application data, testing, delivery workflows, and production support. I focus on reliable, maintainable software and practical problem solving.
 
-- **Backend:** PHP, Laravel, REST APIs, MySQL
-- **Frontend:** JavaScript, jQuery, Bootstrap, responsive web interfaces
-- **Quality:** PHPUnit, Pest, black-box testing, automated testing
-- **Delivery:** Docker, RabbitMQ, Git, GitHub Actions, CI/CD
-- **Additional experience:** Office IT support, troubleshooting, backup and recovery
+## Core skills
 
-## Current focus
+- **Backend:** PHP, Laravel, REST APIs, RabbitMQ
+- **Databases:** MySQL, SQLite, MongoDB
+- **Frontend:** JavaScript, jQuery, HTML5, CSS3, Bootstrap, responsive web design
+- **Testing:** PHPUnit, Pest, black-box testing, automated testing, Postman
+- **DevOps & delivery:** Docker, GitHub Actions, CI/CD, Git
+- **Additional tools:** Jira, Zabbix, WordPress, Drupal, Rasa, OpenCV, OpenClaw
 
-I develop and maintain healthcare software for orthodontic practices, including API integrations, patient and invoice workflows, customer-specific modules, testing, and operational reliability.
+## Current role
 
-Most of my professional work is proprietary. I am building sanitized public projects here that demonstrate my engineering approach without exposing employer or customer code.
+At **Heidesoft GmbH**, I develop and maintain a web-based consultation platform for orthodontic practices using PHP, Laravel, JavaScript, jQuery, Bootstrap, and MySQL. My work includes Ivoris REST API integrations for patient and invoice workflows, customer-specific modules, backup and recovery, automated testing, Docker, RabbitMQ, GitHub Actions, and CI/CD.
+
+Most of my professional work is proprietary. The public projects below demonstrate my engineering approach without exposing employer or customer code.
 
 ## Featured projects
 
-- **[IT Support Desk](https://github.com/uzairsheikh079/it-support-desk)** — A Laravel support-ticket platform with a versioned REST API, RabbitMQ jobs, Docker, PHPUnit, and GitHub Actions.
-- **[Bitcoin Price Explorer](https://github.com/uzairsheikh079/bitcoin-price-explorer)** — A Laravel and Vue.js application that visualizes historical Bitcoin prices from an external API.
+### [IT Support Desk](https://github.com/uzairsheikh079/it-support-desk)
+Production-minded support-ticket platform built with PHP 8.5, Laravel 13, MySQL, RabbitMQ, Docker, Tailwind CSS, PHPUnit, and GitHub Actions. It includes an authenticated dashboard, ticket assignment and lifecycle tracking, a versioned REST API, UUID-based public identifiers, asynchronous jobs, automated tests, dependency audits, and CI checks.
 
-## Open to opportunities
+### [Bitcoin Price Explorer](https://github.com/uzairsheikh079/bitcoin-price-explorer)
+Full-stack Laravel and Vue.js application that retrieves historical Bitcoin prices through a Laravel API and presents date-range results in a Vue.js interface.
 
-I am interested in **Full-Stack Developer** and **Backend Developer** roles where I can contribute to practical, dependable, user-focused software.
+## Languages
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/uzair-tariq94/)
+- German: B1
+- English: Fluent
+- Urdu / Hindi: Native
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/uzair-tariq94/)
+- Email: uzair.tariq1994@gmail.com
